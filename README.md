@@ -14,7 +14,8 @@ This project demonstrates an end-to-end data analytics workflow:
 
 ```
 Sales-Growth-Analytics/
-├── README.md                 # Project documentation
+├── README.md                 # Project 
+├── MarketingAnalytics.bak    #MSSQL Server backup files to restore 
 ├── sql/
 │   ├── ProductsQuery.sql   # Queries to extract products and categorise based on prices
 │   ├── CustomerAndGeoQuery.sql  # Queries to join customers to geography
